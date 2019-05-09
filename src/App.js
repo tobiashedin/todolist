@@ -39,7 +39,7 @@ class App extends React.Component {
 
     return (
       <div className="todo-list" >
-        <h3 className="header">R.A. TodoList 1.0000</h3>
+        <h3 className="header">R.A. TodoList 1.00</h3>
         {todoItems}
       </div>
     )
